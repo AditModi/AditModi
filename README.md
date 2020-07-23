@@ -73,4 +73,4 @@
 
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=AditModi)
 
-[Developed By Devanshu ♥️](http://gitread.me/#/)
+
