@@ -64,7 +64,7 @@
 
 # Skills
 
-<h4>AWS,GCP,Azure,Hadoop,Spark,Cloud Computing,python</h4>
+<h4>AWS,GCP,Azure,Hadoop,Spark,Cloud Computing,python,OCI,Cloud Services,Docker,Kubernetes</h4>
 
 # Achievements
 
