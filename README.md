@@ -26,7 +26,7 @@
 
 #### Email: adit.modi24@gmail.com
 
-#### <h4>About Myself: I am final year Computer Science Student Studying at Dharmsinh Desai University. Interested in Cloud Computing and Big Data Analytics. Basic Knowledge of Amazon Web Services ,Oracle Cloud , Microsoft Azure , Google Cloud Platform , Hadoop and Spark .</h4>
+#### <h4>About Myself: I am a final year Computer Science Student Studying at Dharmsinh Desai University. I am an enthusiast in solving different problems and come up with the solution which are robust and reliable keeping in mind the deadlines.</h4>
 
 # Education
 
