@@ -48,7 +48,21 @@
   <h4> Work Role : Software Development Engineer Intern</h4> 
   <h4> From : 2020-04 </h4> 
   <h4> to :2020-07 </h4> 
-  <h4> Details :Worked On Migration of the local server data storage to amazon s3 storage . </h4> 
+  <h4> Details :
+Worked on large scale application based on PHP, Laravel and Javascript.
+Migrating Data from on-premise to AWS Cloud .
+Understanding the Project Infrastructure and Developing and Testing Functions by automating and streamlining the integration and deployment processes.
+</h4> 
+</li></ul>
+
+<ul>
+<li><h4> Company Name : Amazon Web Services. </h4> 
+  <h4> Work Role : 	AWS Educate Student Ambassador </h4> 
+  <h4> From : 2020-05 </h4> 
+  <h4> present </h4> 
+  <h4> Details :
+The AWS Educate Student Ambassador Program gives AWS Educate student members recognition, access to career development opportunities, and other benefits for helping their peers learn about Amazon Web Services. 
+</h4> 
 </li></ul>
 
 # Projects
