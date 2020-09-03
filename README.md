@@ -78,7 +78,7 @@ The AWS Educate Student Ambassador Program gives AWS Educate student members rec
 
 # Skills
 
-<h4>AWS,GCP,Azure,Hadoop,Spark,Cloud Computing,python,OCI,Cloud Services,Docker,Kubernetes</h4>
+<h4>AWS,GCP,Azure,Hadoop,Spark,Cloud Computing,python,OCI,Cloud Services,Docker,Kubernetes,Terraform,Linux</h4>
 
 # Achievements
 
