@@ -87,4 +87,6 @@ The AWS Educate Student Ambassador Program gives AWS Educate student members rec
 
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=AditModi)
 
+![top-langs](https://github-readme-stats.vercel.app/api/top-langs?username=AditModi)
+
 
