@@ -23,7 +23,7 @@
 
 #### <br>Name: Adit Modi
 
-#### Position: Cloud and Big Data Enthusiast
+#### Position: Cloud , DevOps and Big Data Enthusiast
 
 #### Email: adit.modi24@gmail.com
 
