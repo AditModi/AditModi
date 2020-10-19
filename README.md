@@ -58,12 +58,15 @@ I love to interact with people so please feel free to connect with me on linkedI
   <h4> From : 2020-05 </h4> 
   <h4> present </h4> 
   <h4> Details :
+
 • The AWS Educate Student Ambassador Program gives AWS Educate student
 members recognition, access to career development opportunities, and other
 benefits for helping their peers learn about Amazon Web Services.
+
 • Building the AWS (India Region ) Cloud Community that hosts sessions and
 activities that deepen and equip scholars with AWS Cloud Computing skills
-and Big Data competencies. I am leading a team of 10 students to complete
+and Big Data competencies. 
+I am leading a team of 10 students to complete
 the 5 AWS Cloud Career Pathway Certifications and 2 start-ups to secure the
 AWS Activate Credits, providing them with low cost, easy to use
 infrastructure for growth and scalability.
@@ -78,12 +81,15 @@ infrastructure for growth and scalability.
   <h4> From : 2020-08 </h4> 
   <h4> to :Present </h4> 
   <h4> Details :
+
 • Solution building includes developing cloud infrastructure automation,
 cloud native applications, documentation, architecture diagrams, monitoring
 & support, operating manuals etc. ( Worked on Terraform and CI/CD
 Pipelines with AWS and Azure ) .
+
 • Maintain 24/7 up-time of demo-ready solutions in the cloud environment(
 Both AWS and Azure Environment) .
+
 • to build specific cloud-native solutions for targeted business problems and
 Improve the solution design and implementation by iterating and
 incorporate inputs .
@@ -98,12 +104,15 @@ incorporate inputs .
   <h4> From : 2020-04 </h4> 
   <h4> to :2020-07 </h4> 
   <h4> Details :
+
 • Work under the guidance of leads to build specific cloud-native solutions
 for targeted business
 problems (Migrating Data from on-premise to Cloud Environment) .
+
 • Understanding the Project Infrastructure and Developing and Testing
 Functions by automating and streamlining the integration and deployment
 processes.
+
 • Improve the solution design and implementation by iterating and
 incorporate inputs from the leads
 and architects .
