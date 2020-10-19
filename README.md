@@ -56,8 +56,8 @@ I love to interact with people so please feel free to connect with me on linkedI
 <li><h4> Company Name : Amazon Web Services. </h4> 
   <h4> Work Role : 	AWS Educate Student Ambassador </h4> 
   <h4> From : 2020-05 </h4> 
-  <h4> present </h4> 
-  <h4> Details :
+  <h4> To: present </h4> 
+  <h4>Details :
 
 • The AWS Educate Student Ambassador Program gives AWS Educate student
 members recognition, access to career development opportunities, and other
@@ -66,11 +66,11 @@ benefits for helping their peers learn about Amazon Web Services.
 • Building the AWS (India Region ) Cloud Community that hosts sessions and
 activities that deepen and equip scholars with AWS Cloud Computing skills
 and Big Data competencies. 
+
 I am leading a team of 10 students to complete
 the 5 AWS Cloud Career Pathway Certifications and 2 start-ups to secure the
 AWS Activate Credits, providing them with low cost, easy to use
 infrastructure for growth and scalability.
-
 </h4> 
 </li></ul>
 
