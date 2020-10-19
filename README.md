@@ -27,7 +27,8 @@
 
 #### Email: adit.modi24@gmail.com
 
-#### <h4>About Myself: Hi , I'm Adit !! I am a final year Computer Science Undergrad Studying at Dharmsinh Desai University, Nadiad.
+#### <h4>About Myself: 
+ Hi , I'm Adit !! I am a final year Computer Science Undergrad Studying at Dharmsinh Desai University, Nadiad.
 
 I am an cloud Enthusiast aspiring to be a solutions architect , I am passionate about creating solutions that not only solve problems but impact lives of people around us. I am currently focused on learning Devops automation while leveraging my knowledge of cloud services .
 
