@@ -34,7 +34,7 @@ I am an cloud Enthusiast aspiring to be a solutions architect , I am passionate 
 
 I spend my time exploring about multi-cloud solutions using different cloud services provided by cloud providers like Amazon Web Services, Microsoft Azure, Google Cloud Platform, Alibaba Cloud & Oracle Cloud Infrastructure.
 
-I love to interact with people so please feel free to connect with me.
+I love to interact with people so please feel free to connect with me on linkedIn or follow me on medium.
 </h4>
 
 # Education
