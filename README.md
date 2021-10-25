@@ -16,10 +16,6 @@
 </p>
 
 
-## 🧰 Tools & Technologies
-
-
-
 ## ✍️ Latest Blog Articles
 
 <!-- BLOG-POST-LIST:START -->
