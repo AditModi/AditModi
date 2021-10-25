@@ -4,8 +4,6 @@
 <h2 align="center"><b>Cloud Engineer | AWS Community Builder | 8x AWS Certified | 3x Azure Certified | Author of Cloud Tech , DailyDevOps & BigDataJournal | DEV moderator</b></h2>
 
 
-- 🔭 **Cloud Engineer**
-
 
 
 ## 👋 Connect with Me
@@ -16,6 +14,7 @@
     <a href="https://www.linkedin.com/in/adit-modi-2a4362191/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="vumdao" height="30" width="40" /></a>
     <a href="https://github.com/AditModi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="vumdao" height="30" width="40" /></a> 
 </p>
+
 
 ## 🧰 Tools & Technologies
 
@@ -37,7 +36,5 @@
 
 ## 📈 GitHub Stats
 
-![Profile views](https://komarev.com/ghpvc/?username=AditModi&color=blueviolet)
 ![AditModi's GitHub stats](https://github-readme-stats.vercel.app/api?username=AditModi&theme=blue-green&show_icons=true&line_height=27&count_private=true)
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=AditModi&theme=blue-green&langs_count=3)
-![AditModi's github streak](https://github-readme-streak-stats.herokuapp.com/?user=AditModi&theme=blue-green)
+
