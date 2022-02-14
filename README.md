@@ -1,4 +1,4 @@
-# [![Adit Modi header]](https://dev.to/aditmodi)
+
 
 <h1 align="center">Hi 👋, I'm Adit Modi </h1>
 <h2 align="center"><b>Cloud Engineer | AWS Community Builder | 8x AWS Certified | 3x Azure Certified | Author of Cloud Tech , DailyDevOps & BigDataJournal | DEV moderator</b></h2>
