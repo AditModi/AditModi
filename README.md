@@ -3,6 +3,7 @@
 <h1 align="center">Hi 👋, I'm Adit Modi </h1>
 <h2 align="center"><b>Cloud Engineer | AWS Community Builder | 8x AWS Certified | 3x Azure Certified | Author of Cloud Tech , DailyDevOps & BigDataJournal | DEV moderator</b></h2>
 
+![](https://visitor-badge.glitch.me/badge?page_id=github.com/AditModi) [![GitHub followers](https://img.shields.io/github/followers/AditModi?label=Followers&style=social)](https://github.com/AditModi/?tab=follow) ![Profile views](https://gpvc.arturio.dev/AditModi) [![Linkedin Badge](https://img.shields.io/badge/-vumdao-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adit-modi/)](https://www.linkedin.com/in/adit-modi/) [![Instagram Badge](https://img.shields.io/badge/-dev.to-black?style=flat&logo=instagram&logoColor=white&link=https://dev.to/aditmodi)](https://dev.to/aditmodi)
 
 
 
