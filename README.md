@@ -6,16 +6,6 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=github.com/AditModi) [![GitHub followers](https://img.shields.io/github/followers/AditModi?label=Followers&style=social)](https://github.com/AditModi/?tab=follow) ![Profile views](https://gpvc.arturio.dev/AditModi) [![Linkedin Badge](https://img.shields.io/badge/-aditmodi-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adit-modi/)](https://www.linkedin.com/in/adit-modi/) [![Instagram Badge](https://img.shields.io/badge/-dev.to-black?style=flat&logo=instagram&logoColor=white&link=https://dev.to/aditmodi)](https://dev.to/aditmodi) [![twitter](https://img.shields.io/twitter/follow/adi_12_modi?label=%40adi_12_modi&style=social)](https://twitter.com/adi_12_modi) 
 
 
-
-## 👋 Connect with Me
-
-<p align="left">
-    <a href="https://dev.to/aditmodi" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/devto/devto-icon.svg" alt="vumdao" height="30" width="40" /></a>
-    <a href="https://twitter.com/adi_12_modi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="VuDao81124667" height="30" width="40" /></a>
-    <a href="https://www.linkedin.com/in/adit-modi-2a4362191/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="vumdao" height="30" width="40" /></a>
-    <a href="https://github.com/AditModi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="vumdao" height="30" width="40" /></a> 
-</p>
-
 ##  👨‍💻 Technical Skills
 
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg) ![Linux](https://img.shields.io/badge/Linux-FCC624) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg) ![Python](https://img.shields.io/badge/python-3670A0) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg) 
@@ -39,3 +29,12 @@
 
 ![AditModi's GitHub stats](https://github-readme-stats.vercel.app/api?username=AditModi&theme=blue-green&show_icons=true&line_height=27&count_private=true)
 
+
+## 👋 Connect with Me
+
+<p align="left">
+    <a href="https://dev.to/aditmodi" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/devto/devto-icon.svg" alt="vumdao" height="30" width="40" /></a>
+    <a href="https://twitter.com/adi_12_modi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="VuDao81124667" height="30" width="40" /></a>
+    <a href="https://www.linkedin.com/in/adit-modi-2a4362191/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="vumdao" height="30" width="40" /></a>
+    <a href="https://github.com/AditModi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="vumdao" height="30" width="40" /></a> 
+</p>
