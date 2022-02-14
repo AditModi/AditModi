@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Adit Modi </h1>
 <h2 align="center"><b>Cloud Engineer | AWS Community Builder | 8x AWS Certified | 3x Azure Certified | Author of Cloud Tech , DailyDevOps & BigDataJournal | DEV moderator</b></h2>
 
-![](https://visitor-badge.glitch.me/badge?page_id=github.com/AditModi) [![GitHub followers](https://img.shields.io/github/followers/AditModi?label=Followers&style=social)](https://github.com/AditModi/?tab=follow) ![Profile views](https://gpvc.arturio.dev/AditModi) [![Linkedin Badge](https://img.shields.io/badge/-aditmodi-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adit-modi/)](https://www.linkedin.com/in/adit-modi/) [![Instagram Badge](https://img.shields.io/badge/-dev.to-black?style=flat&logo=instagram&logoColor=white&link=https://dev.to/aditmodi)](https://dev.to/aditmodi)
+![](https://visitor-badge.glitch.me/badge?page_id=github.com/AditModi) [![GitHub followers](https://img.shields.io/github/followers/AditModi?label=Followers&style=social)](https://github.com/AditModi/?tab=follow) ![Profile views](https://gpvc.arturio.dev/AditModi) [![Linkedin Badge](https://img.shields.io/badge/-aditmodi-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adit-modi/)](https://www.linkedin.com/in/adit-modi/) [![Instagram Badge](https://img.shields.io/badge/-dev.to-black?style=flat&logo=instagram&logoColor=white&link=https://dev.to/aditmodi)](https://dev.to/aditmodi) [![twitter](https://img.shields.io/twitter/follow/adi_12_modi?label=%40adi_12_modi&style=social)](https://twitter.com/adi_12_modi) 
 
 
 
@@ -15,6 +15,11 @@
     <a href="https://www.linkedin.com/in/adit-modi-2a4362191/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="vumdao" height="30" width="40" /></a>
     <a href="https://github.com/AditModi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="vumdao" height="30" width="40" /></a> 
 </p>
+
+##  👨‍💻 Technical Skills
+
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)  ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) 
+
 
 
 ## ✍️ Latest Blog Articles
